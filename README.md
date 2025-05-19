@@ -33,7 +33,7 @@ Frontend/ <br/>
 ├── vite.config.js <br/>
 └── tailwind.config.js <br/>
 
-Backend/
+Backend/ <br/>
 ├── controllers/ <br/>
 ├── models/ <br/>
 ├── node_modules/ <br/>
@@ -94,8 +94,4 @@ This project is made possible thanks to the following open-source technologies:
 - 🛢️ [MongoDB](https://www.mongodb.com/) – NoSQL database for backend storage
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
 - 🧩 [Material UI](https://mui.com/) – React UI component library
-
-
-
-
 
